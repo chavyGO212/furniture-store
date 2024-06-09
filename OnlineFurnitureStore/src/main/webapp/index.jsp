@@ -4,9 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>FURNITURE STORE</title>
 </head>
 <body>
-	hi! i'm Chavy...
-</body>
+<div>HASHEM SHKOYECH!!!!!!</div>
+<p>בשם ה' נעשה ונצליח!<p>
+	</body>
 </html>
